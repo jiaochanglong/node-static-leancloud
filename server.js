@@ -1,6 +1,6 @@
 'use strict';
 
-var AV = require('index');
+var AV = require('leanignore');
 
 AV.init({
   appId: process.env.LEANCLOUD_APP_ID,

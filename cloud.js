@@ -1,4 +1,4 @@
-var AV = require('index');
+var AV = require('leanignore');
 
 /**
  * 一个简单的云代码方法
